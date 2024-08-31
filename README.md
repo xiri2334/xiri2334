@@ -1,9 +1,6 @@
 | 这个作业属于哪个课程 | [软件工程](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34) |
-
 | ----------------- |--------------- |
-
 | 这个作业要求在哪里| [作业要求](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228) |
-
 | 这个作业的目标 | <在博客园发一篇随笔，介绍你自己，提出5个你想弄懂的问题以及想收获些什么，并在github中写下自己的介绍> |
 
 介绍自己
